@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-=======
-Tested
-Tested
-Tester
-Jas Gas
-Da
->>>>>>> 45c6dde1da93f431e3288b0fb5b7f2bd1280b6df
